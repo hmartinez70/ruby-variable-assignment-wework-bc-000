@@ -2,4 +2,4 @@
  # give it the value of the string "Hello World"
 
 anewvariable = 1 
-greeting = "Hello world" 
+greeting = "Hello World" 
